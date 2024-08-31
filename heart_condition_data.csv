@@ -1,2 +1,4 @@
-Weight,Height,BMI,Smoking Status,Alcohol Status,Activity Status,Risk
-45.0,1.54,18.974531961544947,Non-smoker,Non-drinker,Inactive,Medium
+Weight,Height,BMI,Smoking Status,Alcohol Status,Activity Status,Risk,Age,Gender,BMI Category,Heart Condition Risk
+45.0,1.54,18.974531961544947,Non-smoker,Non-drinker,Inactive,Medium,,,,
+,,22.481329065691202,no,no,yes,,24.0,F,Normal weight,Low
+,,28.344671201814062,no,no,yes,,28.0,M,Overweight,Medium
